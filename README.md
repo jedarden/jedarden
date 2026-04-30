@@ -22,7 +22,3 @@ Headless, autonomous agents that build and ship production code with minimal hum
 ## Stack
 
 `Rust` · `Go` · `Python` · `TypeScript` · `Kubernetes` · `ArgoCD`
-
----
-
-**[jedarden.com](https://jedarden.com)** · Ex-Meta · Ex-Spotify · Ex-SocGen
