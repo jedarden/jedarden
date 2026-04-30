@@ -14,7 +14,7 @@ Now I operate at the frontier of headless, autonomous agent infrastructure — w
 |---------|-------------|
 | [NEEDLE](https://github.com/jedarden/NEEDLE) | Headless agent orchestrator with deterministic state machine in Rust — processes a bead queue, dispatches to any LLM CLI, handles every outcome through an explicit path. |
 | [CLASP](https://github.com/jedarden/CLASP) | Run Claude Code with any LLM provider — drop-in proxy for OpenAI, Gemini, and more. Go. |
-| [FORGE](https://github.com/jedarden/forge) | Federated control panel for AI coding agents. Rust. |
+| [ARMOR](https://github.com/jedarden/ARMOR) | Encrypted B2 object storage with zero-egress Cloudflare delivery — authenticated, range-readable, production-hardened. Go. |
 | [MANA](https://github.com/jedarden/MANA) | Memory-augmented context injection system for Claude Code. Rust. |
 | [ccdash](https://github.com/jedarden/ccdash) | Lightweight TUI for monitoring agent sessions, Claude Code token usage, and system resources. Go. |
 | [agentists-quickstart](https://github.com/jedarden/agentists-quickstart) | Opinionated DevPod workspace configs for agentic engineering — shared secrets, extensions, ready on first launch. |
