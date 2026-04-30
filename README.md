@@ -1,6 +1,6 @@
 # Jed Arden
 
-**I build systems that replace engineering squads.**
+**I build systems that operate at the scale of multiple engineering squads.**
 
 Headless, autonomous agents that build and ship production code with minimal human oversight — running on deterministic state machines, not vibes.
 
