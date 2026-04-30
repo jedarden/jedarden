@@ -2,9 +2,7 @@
 
 **I build systems that replace engineering squads.**
 
-At Meta, I ran the 1.2PB/day pipeline for Instagram Notifications. At Spotify, I built Bayesian marketing measurement for a €19M global campaign. At AdQuant, I multiplied media buyer productivity 300× through automation. At Rho, I increased underwriting capacity 7×. Before all of that, I priced equity derivatives at Société Générale.
-
-Now I operate at the frontier of headless, autonomous agent infrastructure — where LLM-driven systems build and deploy production code with minimal human oversight.
+Headless, autonomous agents that build and ship production code with minimal human oversight — running on deterministic state machines, not vibes.
 
 ---
 
@@ -28,4 +26,3 @@ Now I operate at the frontier of headless, autonomous agent infrastructure — w
 ---
 
 **[jedarden.com](https://jedarden.com)** · Ex-Meta · Ex-Spotify · Ex-SocGen
-
