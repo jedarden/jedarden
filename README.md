@@ -1,3 +1,5 @@
+![](banner.png)
+
 # Jed Arden
 
 **I build systems that operate at the scale of multiple engineering squads.**
