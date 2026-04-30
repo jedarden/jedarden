@@ -28,3 +28,4 @@ Now I operate at the frontier of headless, autonomous agent infrastructure — w
 ---
 
 **[jedarden.com](https://jedarden.com)** · Ex-Meta · Ex-Spotify · Ex-SocGen
+
