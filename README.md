@@ -4,7 +4,7 @@
 
 # Jed Arden
 
-**New York** · Agentic Systems Engineer · Ex-Meta · Ex-Spotify · Ex-SocGen
+**New York** · Agentic Systems Engineer
 
 ![Rust](https://img.shields.io/badge/-Rust-2b2b2b?style=flat-square&logo=rust&logoColor=dea584)
 ![Go](https://img.shields.io/badge/-Go-2b2b2b?style=flat-square&logo=go&logoColor=00ADD8)
