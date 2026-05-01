@@ -13,7 +13,7 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-2b2b2b?style=flat-square&logo=kubernetes&logoColor=326CE5)
 ![Claude](https://img.shields.io/badge/-Claude-2b2b2b?style=flat-square&logo=anthropic&logoColor=d4a27f)
 
-*I build systems that operate at the scale of multiple engineering squads.*
+*I build agentic coding systems that ship at the velocity of multiple engineering squads.*
 
 ![Stars](https://img.shields.io/badge/Stars-260+-2b2b2b?style=flat-square&logo=github&logoColor=white)
 ![Repos](https://img.shields.io/badge/Projects-61-2b2b2b?style=flat-square&logo=github&logoColor=white)
