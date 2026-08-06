@@ -17,7 +17,7 @@
 
 ![Stars](https://img.shields.io/badge/Stars-317+-2b2b2b?style=flat-square&logo=github&logoColor=white)
 ![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fjedarden&query=%24.public_repos&label=Projects&style=flat-square&color=2b2b2b&logo=github&logoColor=white)
-![Contributions](https://img.shields.io/badge/Contributions_(1yr)-47%2C408-2b2b2b?style=flat-square&logo=github&logoColor=white)
+![Contributions](https://img.shields.io/badge/Contributions_(1yr)-48%2C527-2b2b2b?style=flat-square&logo=github&logoColor=white)
 ![Followers](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fjedarden&query=%24.followers&label=Followers&style=flat-square&color=2b2b2b&logo=github&logoColor=white)
 
 [![Website](https://img.shields.io/badge/jedarden.com-2b2b2b?style=flat-square&logo=google-chrome&logoColor=white)](https://jedarden.com)
