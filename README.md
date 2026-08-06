@@ -4,9 +4,7 @@
 
 # Jed Arden
 
-**New York** · Platform & AI Infrastructure Engineer
-
-Senior Research Engineer & AI Lead @ Rho · previously Meta and Spotify
+**New York** · Agentic Systems Engineer
 
 ![Rust](https://img.shields.io/badge/-Rust-2b2b2b?style=flat-square&logo=rust&logoColor=dea584)
 ![Go](https://img.shields.io/badge/-Go-2b2b2b?style=flat-square&logo=go&logoColor=00ADD8)
