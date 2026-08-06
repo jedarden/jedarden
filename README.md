@@ -4,7 +4,9 @@
 
 # Jed Arden
 
-**New York** · Agentic Systems Engineer
+**New York** · Platform & AI Infrastructure Engineer
+
+Senior Research Engineer & AI Lead @ Rho · previously Meta and Spotify
 
 ![Rust](https://img.shields.io/badge/-Rust-2b2b2b?style=flat-square&logo=rust&logoColor=dea584)
 ![Go](https://img.shields.io/badge/-Go-2b2b2b?style=flat-square&logo=go&logoColor=00ADD8)
@@ -13,7 +15,7 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-2b2b2b?style=flat-square&logo=kubernetes&logoColor=326CE5)
 ![Claude](https://img.shields.io/badge/-Claude-2b2b2b?style=flat-square&logo=anthropic&logoColor=d4a27f)
 
-*I build agentic coding systems that ship at the velocity of multiple engineering squads.*
+*I build headless agent orchestration, cloud-native infrastructure, and the systems that make autonomous work safe to ship.*
 
 ![Stars](https://img.shields.io/badge/Stars-317+-2b2b2b?style=flat-square&logo=github&logoColor=white)
 ![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fjedarden&query=%24.public_repos&label=Projects&style=flat-square&color=2b2b2b&logo=github&logoColor=white)
@@ -34,7 +36,7 @@
 
 ## The Headless Agentic Stack
 
-Headless agentic development means autonomous agents that claim work, build and test it, and ship to production — without a human in the loop on each task. Not AI-assisted coding: AI-operated coding. The system below makes this deterministic: every unit of work has an explicit owner, every outcome has a handler, every deployment is automated. Agents run in parallel across a shared queue, coordinate without colliding, and recover from failures without intervention.
+Headless agentic development means autonomous agents that claim work from a shared queue, build and test it, and ship through automated pipelines — with humans setting direction and reviewing outcomes rather than driving each task. The system below makes this deterministic: every unit of work has an explicit owner, every outcome has a handler, every deployment is automated. Agents run in parallel across a shared queue, coordinate without colliding, and recover from failures without intervention.
 
 | Tool | Stars | Lang | Purpose |
 |:-----|:-----:|:----:|:--------|
