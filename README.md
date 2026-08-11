@@ -15,9 +15,9 @@
 
 *I build headless agent orchestration, cloud-native infrastructure, and the systems that make autonomous work safe to ship.*
 
-![Stars](https://img.shields.io/badge/Stars-324+-2b2b2b?style=flat-square&logo=github&logoColor=white)
+![Stars](https://img.shields.io/badge/Stars-327+-2b2b2b?style=flat-square&logo=github&logoColor=white)
 ![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fjedarden&query=%24.public_repos&label=Projects&style=flat-square&color=2b2b2b&logo=github&logoColor=white)
-![Contributions](https://img.shields.io/badge/Contributions_(1yr)-54%2C087-2b2b2b?style=flat-square&logo=github&logoColor=white)
+![Contributions](https://img.shields.io/badge/Contributions_(1yr)-54%2C603-2b2b2b?style=flat-square&logo=github&logoColor=white)
 ![Followers](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fjedarden&query=%24.followers&label=Followers&style=flat-square&color=2b2b2b&logo=github&logoColor=white)
 
 [![Website](https://img.shields.io/badge/jedarden.com-2b2b2b?style=flat-square&logo=google-chrome&logoColor=white)](https://jedarden.com)
